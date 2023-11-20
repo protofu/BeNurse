@@ -29,7 +29,7 @@
 
 💉 <b>Login & Invite_Code</b>
 
-|<img src="/uploads/e0647760234cd92421e82610e8dc887d/login.mov">|<img src="">|
+|<img src="/uploads/5ca5d5735e57935f4a7c83b2f76c6133/login.gif">|<img src="">|
 | :------: | :------: |
 | **Login Page** | **Invite Code** |
 <br>
