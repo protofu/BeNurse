@@ -44,13 +44,17 @@
 <br>
 💉 <b>Handover</b>
 
-| <img width="300" src="/uploads/a6ae33284365b66c85235eebf9f21e98/스크린샷_2023-11-21_오전_12.14.17.png"> | <img width="300" src="/uploads/b2b608a55742823a7d9da32eb062be36/handover1.gif"> |
-| :--------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |------------------------------------------------------------------------------- |
-|                                              **Handover Main Page**                                              |                               **Create Handover**                               |
-|                 <img width="300" src="/uploads/b2b608a55742823a7d9da32eb062be36/handover1.gif">                  | <img width="300" src="/uploads/265a031792f3d542907f96ab4815b877/handover2.gif"> | <img width="300" src=""> | <img width="300" src="/uploads/ae3d533d8592b5bf0062954725302d4f/handover3.gif"> |
-|                                               **Create Handover**                                                |                               **Create Handover**                               | **Create Handover**      | **Create Handover**                                                             |
-|                    <img width="300" src="/uploads/8d5553a5197cc3ad809ed21b97c36d13/read.gif">                    |   <img width="300" src="/uploads/b4ea3ab881dd4ec85a9329af33fa8089/temp.gif">    |
-|                                              **Take&Give Handover**                                              |                                **Temp Handover**                                |
+| <img width="300" src="/uploads/5ca5d5735e57935f4a7c83b2f76c6133/login.gif"> | <img width="300" src="/uploads/dd6fdff47edc5d8c9cef76f403fa83f5/invite.gif"> |
+| :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|                               **Handover Main Page**                                |                               **Create Handover**                                |
+<br>
+| <img width="300" src="/uploads/5ca5d5735e57935f4a7c83b2f76c6133/login.gif"> | <img width="300" src="/uploads/dd6fdff47edc5d8c9cef76f403fa83f5/invite.gif"> |
+| :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|                               **Create Handover**                                |                               **Create Handover**                                |
+<br>
+| <img width="300" src="/uploads/5ca5d5735e57935f4a7c83b2f76c6133/login.gif"> | <img width="300" src="/uploads/dd6fdff47edc5d8c9cef76f403fa83f5/invite.gif"> |
+| :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|                               **Take&Give Handover**                                |                               **Temp Handover**                                |
 
 <br>
 💉 <b>Schedule</b>
