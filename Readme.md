@@ -29,16 +29,16 @@
 
 💉 <b>Login & Invite_Code</b>
 
-|<img src="/uploads/5ca5d5735e57935f4a7c83b2f76c6133/login.gif">|<img src="/uploads/dd6fdff47edc5d8c9cef76f403fa83f5/invite.gif">|
+|<img style="width: 200px;" src="/uploads/5ca5d5735e57935f4a7c83b2f76c6133/login.gif">|<img style="width: 200px;" src="/uploads/dd6fdff47edc5d8c9cef76f403fa83f5/invite.gif">|
 | :------: | :------: |
 | **Login Page** | **Invite Code** |
 <br>
 💉 <b>Main</b>
 
-|<img src="/uploads/86ba79b227b04d3361c7cbb0edaa517e/mainpage.gif">|<img src="/uploads/b4068625c24082868a3bad06be6c18e7/notice.gif">|
+|<img style="width: 200px;" src="/uploads/86ba79b227b04d3361c7cbb0edaa517e/mainpage.gif">|<img style="width: 200px;" src="/uploads/b4068625c24082868a3bad06be6c18e7/notice.gif">|
 | :------: | :------: |
 | **Main Page** | **Notice** |
-|<img src="/uploads/9c80fc895d50358123a2613f738ebfd7/mypage.gif">|<img src="/uploads/6b0f044c79132584e9aa8922d94bbb21/tip.gif">|
+|<img style="width: 200px;" src="/uploads/9c80fc895d50358123a2613f738ebfd7/mypage.gif">|<img style="width: 200px;" src="/uploads/6b0f044c79132584e9aa8922d94bbb21/tip.gif">|
 | **My Page** | **Tip** |
 <br>
 💉 <b>Handover</b>
