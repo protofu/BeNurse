@@ -47,11 +47,15 @@
 | <img width="300" src="/uploads/5ca5d5735e57935f4a7c83b2f76c6133/login.gif"> | <img width="300" src="/uploads/dd6fdff47edc5d8c9cef76f403fa83f5/invite.gif"> |
 | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 |                               **Handover Main Page**                                |                               **Create Handover**                                |
+
 <br>
+
 | <img width="300" src="/uploads/5ca5d5735e57935f4a7c83b2f76c6133/login.gif"> | <img width="300" src="/uploads/dd6fdff47edc5d8c9cef76f403fa83f5/invite.gif"> |
 | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 |                               **Create Handover**                                |                               **Create Handover**                                |
+
 <br>
+
 | <img width="300" src="/uploads/5ca5d5735e57935f4a7c83b2f76c6133/login.gif"> | <img width="300" src="/uploads/dd6fdff47edc5d8c9cef76f403fa83f5/invite.gif"> |
 | :-------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 |                               **Take&Give Handover**                                |                               **Temp Handover**                                |
