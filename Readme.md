@@ -35,10 +35,10 @@
 <br>
 💉 <b>Main</b>
 
-|<img src="">|<img src="">|
+|<img src="/uploads/86ba79b227b04d3361c7cbb0edaa517e/mainpage.gif">|<img src="/uploads/b4068625c24082868a3bad06be6c18e7/notice.gif">|
 | :------: | :------: |
 | **Main Page** | **Notice** |
-|<img src="">|<img src="">|
+|<img src="/uploads/9c80fc895d50358123a2613f738ebfd7/mypage.gif">|<img src="/uploads/6b0f044c79132584e9aa8922d94bbb21/tip.gif">|
 | **My Page** | **Tip** |
 <br>
 💉 <b>Handover</b>
